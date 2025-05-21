@@ -102,3 +102,6 @@ _Lai gan zemāk minētie komponenti nav klasificējami kā datu struktūras, tie
 3. Pēc tam Batch skripts pārbaudīs nepieciešamas atkarības, un uzinstālē tos
 
 4. Ja viss iepriekš minēts izpildās veiksmīgi, grafiskā saskarne atvērsies automātiski!
+---
+
+<p align="center"><strong>Kopīga izstrāde ar <a href="https://github.com/neimee8/">@neimee8</a>.</strong> Sinhronizēta kopija <a href="https://github.com/neimee8/dragonfly_analyzer">šeit</a>.</p>
