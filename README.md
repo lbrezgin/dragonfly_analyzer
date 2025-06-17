@@ -104,4 +104,4 @@ _While the following components aren't data structures, they are essential to th
 3. If all checks succeed, the graphical interface will open automatically!
 ---
 
-<p align="center"><strong>Co-developed with <a href="https://github.com/neimee8/">@neimee8</a>.</strong> Synchronized copy <a href="https://github.com/neimee8/dragonfly_analyzer">šeit</a>.</p>
+<p align="center"><strong>Co-developed with <a href="https://github.com/neimee8/">@neimee8</a>.</strong> Synchronized copy <a href="https://github.com/neimee8/dragonfly_analyzer">here</a>.</p>
