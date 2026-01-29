@@ -1,11 +1,3 @@
-<h1 align="center">Dragonfly Analyzer</h1>
-<img src="ui/assets/img/preview.jpg" alt="Dragonfly Analyzer" width="1280"/>
-
-### 📹 Demonstration
----
-
-[Link to video demo](https://www.youtube.com/watch?v=q-MgwmnXWBw&ab_channel=BogdansKologrivovs)
-
 ### 📌 Project Goal
 ---
 
