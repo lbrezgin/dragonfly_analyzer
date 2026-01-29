@@ -63,8 +63,7 @@ The project was created as a solution to a real-world problem — helping a fell
 
 ---
 
-#### 🧩 Other Key Program Components (non-data structures)
-_While the following components aren't data structures, they are essential to the program's functionality. This is not a complete list, but highlights the main parts:_
+#### 🧩 Other Key Program Components
 
 * `DragonflyAnalyzer` — the main class responsible for compiling data, calculating results, and generating the summary.
 * `Dragonfly` — represents a single dragonfly species and stores related statistics.
